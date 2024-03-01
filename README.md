@@ -1,4 +1,4 @@
-# REEBIT Open Source
+# REEBIT
 
 ![BUSINESS CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
 
@@ -21,23 +21,14 @@ https://github.com/FrogIntel/frogintel/releases
 - Current Home Screen Version: 5.5.4
 - *Click on the Don't Panic sign!*
 
-<details>
-<summary>
-⛔ Urgent Announcement Regarding Open Sourcing Of Code ⛔
-</summary>
-Have been informed as of today 26/02/24 that open sourcing of the code is against AppCreator24 policies.
-
-Working to correct the issue or move development platform.
-</details>
-
-Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched May 5th 2023.
+Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
 
 ![HELLOWORLD](https://github.com/FrogIntel/frogintel/assets/142356943/e21ce3df-3a9d-4e9d-82b7-93345e06ff74)
 
 
 In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
-# REVIEWS 🔥
+# PREVIOUS REVIEWS AS FROG INTEL
 
 <details>
 <summary>
@@ -246,7 +237,7 @@ Q
 
 
 
-**To the search engine & other manipulation against this github repo**
+**To the search engine & other manipulation against the github**
 
 *You see us. We see you.*
 
@@ -265,8 +256,6 @@ Q
 
 *Dear Google and Startpage.*
 
-*First off Google, you owe me money. Bug bounty program.*
-
 *Since May 23 you have been manipulating heavily the search results.*
 
 **TO ALL SEARCH ENGINES**
@@ -277,12 +266,9 @@ Q
 # DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 4.2)
-https://github.com/FrogIntel/frogintel/releases
+https://github.com/FrogIntel/reebit/releases
 
 ➡ Download @ Telegram (APK file; version 4.2)
-https://t.me/frogintel/348
-
-**APK SIGNATURE CHANGE:** Had an issue with the signing key as was made using incorrect app and corrupted the file so signing key has changed, **this means a reinstall is required for any version after 4.0.** A main part of the project is doing most the developer work via an Android itself not desktop, meaning can edit on the go. Made by Android for Android.
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
@@ -291,7 +277,14 @@ If you download the file in Telegram, do the same but find telegram and when pro
 
 **Feedback is essential to the development of the application,** if it is of use to you, please feel free to rate it or provide feedback in the channel or app.
 
-**App has adverts built in due to the development service but these are later nulled.**
+**App has adverts built in due to the development service. Please follow the tutorial below to disable this from the end users side**
+
+<details>
+ <summary>
+  TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS
+ </summary>
+ TBC - Coming Soon
+</details>
 
 # Help Spread Awareness Of REEBIT
 
@@ -559,7 +552,6 @@ Not Reflect The Developers of The App Views.
 - Luckypatcher
 - Jotform
 - Nicepage
-- Apktool M
 - AppCreator24
 
 Credits to user's from Countries that assisted development:
@@ -576,15 +568,6 @@ Credits to user's from Countries that assisted development:
 - India
 - Russia
 - ( Probably missed some as well )
-
-*MADE WITH NOCOPYRIGHT*
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/frogintel">Frog Intel</a> by <span property="cc:attributionName">Anodev Anderson & Crew</span> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
-
-- [COPYRIGHT]
-- [COPYLEFT]
-- [COPYWRONG]
-- [COPYRIGHT]
 
 **Law Issues**
 - Any issues with copyright or the license get in touch via the app contact form and we'll look into correcting things asap.
