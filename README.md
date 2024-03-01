@@ -1,6 +1,7 @@
 # REEBIT
 
-![BUSINESS CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
+![CARD FRONT](https://github.com/FrogIntel/REEBIT/assets/142356943/1e52dfec-1938-4530-9b2e-e9c525664cf8)
+
 
 🆕 REEBIT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
@@ -11,14 +12,14 @@ https://t.me/FrogIntel
 https://xdaforums.com/t/app-4-4-frog-intel-4-2-bridging-the-gap-to-censored-information.4658385/
 
 👉 Github link
-https://github.com/FrogIntel
+https://github.com/FrogIntel/reebit
 
 👉 Download Now!
 https://github.com/FrogIntel/frogintel/releases
 
-- Current App Version: 4.2
-- Virus Total https://t.ly/rwF2Z
-- Current Home Screen Version: 5.5.4
+- Current App Version: 1.0
+- Virus Total 
+- Current Home Screen Version: 5.5.5
 - *Click on the Don't Panic sign!*
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
@@ -293,7 +294,8 @@ REEBIT funding is out of pocket. It's not people funded, nor will it ask for don
 Download the front of the card by downloading the banner at the top of the github page.
 
 👇 Below is the rear of the business card
-![businesscarddesign_21022024_081310](https://github.com/FrogIntel/frogintel/assets/142356943/39370be3-4f50-4a41-b10e-1420964deb1e)
+![CARD BACK](https://github.com/FrogIntel/REEBIT/assets/142356943/bced7f5b-c198-4d5f-a116-f4d2182f5d17)
+
 
 
 # Manifesto
