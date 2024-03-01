@@ -9,7 +9,7 @@
 https://t.me/FrogIntel
 
 👉 XDAForums Link
-TBC
+*TBC*
 
 👉 Github link
 https://github.com/FrogIntel/reebit
@@ -18,13 +18,14 @@ https://github.com/FrogIntel/reebit
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
 - Current App Version: 1.0
-- Virus Total 
-- Current Home Screen Version: 5.5.5
+- Virus Total *TBC*
+- Current Home Screen Version: 1.0
 - *Click on the Don't Panic sign!*
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
 
-![HELLOWORLD](https://github.com/FrogIntel/frogintel/assets/142356943/e21ce3df-3a9d-4e9d-82b7-93345e06ff74)
+![HELLOWORLD](https://github.com/FrogIntel/REEBIT/assets/142356943/bbf4e73c-907a-473c-bbc3-0ac7ccfde98e)
+
 
 
 In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
@@ -187,7 +188,8 @@ https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 </details>
 
 
-![PREVIEW](https://github.com/FrogIntel/frogintel/assets/142356943/b3b1813c-36c4-4a5a-bb83-ad3c4d6a9b99)
+![PREVIEW](https://github.com/FrogIntel/REEBIT/assets/142356943/6676bf77-9a00-4aea-94ae-8ad0d36224b4)
+
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
@@ -226,42 +228,6 @@ Wizards & Warlocks.
 
 Q
 
-</details>
-<details>
- <summary>
-  MESSAGE TO MOVEMENTS & MANIPULATION
- </summary>
-
-*"I don't get why people complain about the lack of information available to the public then bring out something the public has to see and yet charges for access to their work or production?*
-
-*You stifle progress doing this"*
-
-
-
-**To the search engine & other manipulation against the github**
-
-*You see us. We see you.*
-
-**"Frog Intel" search results:**
-- Google: No github appears ⛔
-- Yahoo: Github appears
-- Bing: Github appears
-- Duckduckgo: Github appears
-- Ecosia: Github appears at top ✅
-- Qwant: Github appears
-- Startpage: No github appears ⛔
-- YouTube: Banned ⛔
-- Rumble: Appears ✅
-- X / Twitter: Advertising app is blocked ⛔
-- Facebook: Unknown, do people still use this? 🐸
-
-*Dear Google and Startpage.*
-
-*Since May 23 you have been manipulating heavily the search results.*
-
-**TO ALL SEARCH ENGINES**
-
-*The github should be the first result to show.*
 </details>
 
 # DOWNLOAD NOW! 👇
