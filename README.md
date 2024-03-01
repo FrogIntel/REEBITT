@@ -240,7 +240,7 @@ Q
 # DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 4.2)
-https://github.com/FrogIntel/reebit/releases
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
 ➡ Download @ Telegram (APK file; version 4.2)
 
