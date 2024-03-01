@@ -1,4 +1,4 @@
-# REEBIT by Frog Intel
+# REEBIT 🐸 by Frog Intel
 
 ![CARD FRONT](https://github.com/FrogIntel/REEBIT/assets/142356943/1e52dfec-1938-4530-9b2e-e9c525664cf8)
 
