@@ -1,4 +1,4 @@
-# REEBIT
+# REEBIT by Frog Intel
 
 ![CARD FRONT](https://github.com/FrogIntel/REEBIT/assets/142356943/1e52dfec-1938-4530-9b2e-e9c525664cf8)
 
@@ -9,13 +9,13 @@
 https://t.me/FrogIntel
 
 👉 XDAForums Link
-https://xdaforums.com/t/app-4-4-frog-intel-4-2-bridging-the-gap-to-censored-information.4658385/
+TBC
 
 👉 Github link
 https://github.com/FrogIntel/reebit
 
 👉 Download Now!
-https://github.com/FrogIntel/frogintel/releases
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
 - Current App Version: 1.0
 - Virus Total 
