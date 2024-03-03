@@ -14,10 +14,10 @@ https://t.me/FrogIntel
 https://xdaforums.com/t/app-4-4-reebit-research-reach-react-fren.4658385/
 
 👉 Github link
-https://github.com/FrogIntel/reebit
+https://github.com/FrogIntel/reebitt
 
 👉 Download Now!
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=3
 
 - Current App Version: 1.1
 - Virus Total (1 False Positive) https://t.ly/PNcVG
@@ -265,7 +265,7 @@ Q
 # DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 1.1)
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=3
 
 ➡ Download @ Telegram (APK file; version 1.1)
 https://t.me/frogintel/366
