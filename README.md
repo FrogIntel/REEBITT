@@ -1,6 +1,6 @@
 # REEBITT 🐸 by Frog Intel
 
-![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/0c88988a-242c-4ebc-a5e4-596efa9e42b6)
+![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/035b4b4c-db2a-43da-b0a2-a3d6c65dcfe3)
 
 
 **⚠ UPDATE IN PROGRESS, SWITCH FROM REEBIT TO REEBITT ⚠**
@@ -308,8 +308,8 @@ REEBITT funding is out of pocket. It's not people funded, nor will it ask for do
 
 Download the front of the card by downloading the banner at the top of the github page.
 
-👇 Below is the rear of the business card
-![CARD BACK](https://github.com/FrogIntel/REEBIT/assets/142356943/934b73bb-e1b9-4953-bd9e-dd2ea8e4e702)
+👇 Below is the rear of the card
+![CARD BACK](https://github.com/FrogIntel/REEBITT/assets/142356943/330577f8-91ce-499a-b984-8dc6e56bd9e3)
 
 
 # Manifesto
