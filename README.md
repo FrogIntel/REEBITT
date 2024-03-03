@@ -19,9 +19,9 @@ https://github.com/FrogIntel/reebit
 👉 Download Now!
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
-- Current App Version: 1.0
+- Current App Version: 1.1
 - Virus Total (1 False Positive) https://t.ly/PNcVG
-- Current Home Screen Version: 1.0
+- Current Home Screen Version: 1.1
 - *Click on the Don't Panic sign!*
 
 <details>
@@ -264,10 +264,10 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 1.0)
+➡ Download @ Github (APK file; version 1.1)
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
-➡ Download @ Telegram (APK file; version 1.0)
+➡ Download @ Telegram (APK file; version 1.1)
 https://t.me/frogintel/366
 
 **Apps From Unknown Sources:**
