@@ -17,9 +17,9 @@ https://xdaforums.com/t/app-4-4-reebit-research-reach-react-fren.4658385/
 https://github.com/FrogIntel/reebitt
 
 👉 Download Now!
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=3
 
-- Current App Version: 1.1
+
+- Current App Version: 1.2
 - Virus Total (1 False Positive) https://t.ly/PNcVG
 - Current Home Screen Version: 1.1
 - *Click on the Don't Panic sign!*
@@ -264,11 +264,11 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 1.1)
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=3
+➡ Download @ Github (APK file; version 1.2)
 
-➡ Download @ Telegram (APK file; version 1.1)
-https://t.me/frogintel/366
+
+➡ Download @ Telegram (APK file; version 1.2)
+
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
