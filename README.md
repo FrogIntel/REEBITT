@@ -17,12 +17,12 @@ https://github.com/FrogIntel/reebitt
 # Download Now!
 
 RED_CASTLE. ( Dark Edition )
-https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=6
+https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
 
 GREEN_CASTLE. ( Light Edition )
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
 
-- Current App Version: 1.2c (Red) 1.2 (Green)
+- Current App Version: 1.2d
 - Virus Total ( RED_CASTLE. ) https://t.ly/3HSQW
 - Virus Total ( GREEN_CASTLE. ) https://t.ly/cf5k-
 - *Click on the Don't Panic sign!*
@@ -31,7 +31,7 @@ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
  <summary>
  ⛔ WHY REEBITT RED_CASTLE. SAYS NO LONGER AVAILABLE? IT NEEDS AN UPDATE ( 14th April 2024)
  </summary>
-With issues on the development platform there is no easy way to import / export the app. Tried a work around and it wiped the app so an uodated version that will install on top is now available.
+With issues on the development platform there is no easy way to import / export the app. Tried a work around and it wiped the app so an updated version that will install as fresh version.
 </details>
 
 <details>
